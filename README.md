@@ -1,5 +1,5 @@
 # hashy
-easiest way to compare a legit exec to a edited one (based on hashes)
+easiest way to compare a legit exec to a modified one (based on hashes) ill prob port this over when i cbf
 
 
 ## How it works son
